@@ -25,4 +25,4 @@ while(True):
     pass
 
 
-navegador.close()
+##navegador.close()
